@@ -29,8 +29,25 @@ Drones are increasingly used in critical applications, from surveillance to deli
 
 ---
 
-## Resources
-- Pre-configured scripts and tools are available on the GitHub repository: [Drone Wireless Penetration Testing Tools](https://github.com/your-repo-link1).
+
+## Background: HS175D - Ultralight 4K GPS Drone with Brushless Motor
+
+![HS175D](https://github.com/Sandesh028/Background-Security-Analysis-of-Holystone-Drones/assets/123413262/c7646361-9735-4372-93f2-2f7bbd5ffacf)
+
+
+### Flight Mode
+- GPS Auto Return with multiple safety features, adaptable for various conditions, suitable for both outdoor and indoor flight.
+
+### Compatibility and Applications
+- Compatible with iOS 9.0+ and Android 5.0+.
+- Supports 5G Wi-Fi enabled phones adhering to "802.11 a/b/g/n/ac" standards.
+
+### User Demographics and Applications
+- Targets drone enthusiasts and professionals with imaging technology.
+- Ideal for capturing family memories and natural landscapes.
+
+### Regulatory Considerations
+- Exempt from registration in the US, Canada, EU, and UK due to weight.
 
 ---
 
